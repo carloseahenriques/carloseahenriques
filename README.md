@@ -1,5 +1,5 @@
 # Curículo profissional
-`
+
 CARLOS EDUARDO AFFONSO HENRIQUES
 
 Brasileiro, casado, 1 filha
