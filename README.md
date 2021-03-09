@@ -41,14 +41,28 @@ concluído
 Leitura - Francês e Inglês
 Escrita - Inglês
 Conversação - Inglês e Espanhol
-INFORMAÇÕES COMPLEMENTARES:
+
+
+#### INFORMAÇÕES COMPLEMENTARES:
+
 Contribuições para a comunidade opensource, vide:
 
 http://www.vivaolinux.com.br/~capitainkurn
 
 https://www.embarcados.com.br/estendendo-a-vida-util-do-sd-card/
 
+https://www.linkedin.com/today/author/carlos-henriques-6a658657
+
 https://www.linkedin.com/in/carlos-henriques-6a658657/
+
+#### TECNOLOGIAS e FERRAMENTAS
+
+- SISTEMAS OPERACIONAIS
+Linux, Debian, Ubuntu, RHEL/CentOS, Slackware, Gentoo, Alpine, Kali Linux, Mint, Archlinux, Astralinux, LEDE, OpenWRT, Mikrotik, Busybox, Free RTOS, DOS e Windows
+
+-LINGUAGENS
+Shell, Shellscript, Bash, Sed, AWK, C, Python e Go Lang
+
 
 
 #### HISTÓRICO PROFISSIONAL:
