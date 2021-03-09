@@ -61,7 +61,7 @@ https://www.linkedin.com/in/carlos-henriques-6a658657/
 
 Linux, Debian, Ubuntu, RHEL/CentOS, Slackware, Gentoo, Alpine, Kali Linux, Mint, Archlinux, Astralinux, LEDE, OpenWRT, Mikrotik, Busybox, Free RTOS, DOS e Windows
 
--LINGUAGENS
+- LINGUAGENS
 
 Shell, Shellscript, Bash, Sed, AWK, C, Python e Go Lang
 
