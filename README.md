@@ -65,7 +65,9 @@ Linux, Debian, Ubuntu, RHEL/CentOS, Slackware, Gentoo, Alpine, Kali Linux, Mint,
 
 Shell, Shellscript, Bash, Sed, AWK, C, Python e Go Lang
 
+- ##### FERRAMENTAS de CONECTIVIDADE e ADMINISTRAÇÃO
 
+Apache, Nginx, OpenSSH, SSH, Netcat, sockets, TOR, Onion router, OpenVPN, WireGuard, FTP, Bind, Mosh, Orbot, Telegram, Squid, ISC dhcp, Bind, GNU, iproute2, tcpdum, Nagios, WireShark, Airtools, xxd, bbe, iptables/netfilter, Git, GitHub, GitLab, Drone CI, rsync, Samba, API, REST, Modbus, 802.11, 802.15.4 (Zigbee), DALI (luminotécnica), NTCIP (Tráfego), DICOM (Com destaque para anonimização), Filesystems, LVM, RAID, Mdadm, Pv, RBD, DRBD e tmpfs.
 
 #### HISTÓRICO PROFISSIONAL:
 Becape Automação Industrial
