@@ -72,6 +72,10 @@ Apache, Nginx, OpenSSH, SSH, Netcat, sockets, TOR, Onion router, OpenVPN, WireGu
 - ##### FERRAMENTAS de CLOUD e DevOps
 Docker, Swarm, Kubernetes, CRI-O, Podman, Containerd, AWS, RDS, EC2, VPC, S3, API Gateway, GCP, Azure, KVM, Libvirt, Virtmanager, Virtviewer, Hashicorp, Vagrant, Vault
 
+- ##### HARDWARES
+Máquinas físicas HP Proliant, Dell PowerEdge, Supermicro e Gigabyte em ambientes On Premise, Raspberry Pi, MT7688, ESP8266, ESP32, PICs, Apliances Flir (Traficon), Sensores atmosféricos Sick, Dispositivos de imagem Flir.
+
+
 #### HISTÓRICO PROFISSIONAL:
 Becape Automação Industrial
   Janeiro/2021 a Abril/2021 e serviços eventuais.
