@@ -1,4 +1,4 @@
-# Curículo profissional
+# Currículo Profissional
 
 CARLOS EDUARDO AFFONSO HENRIQUES
 
