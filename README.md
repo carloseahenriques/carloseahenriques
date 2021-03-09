@@ -57,17 +57,20 @@ https://www.linkedin.com/in/carlos-henriques-6a658657/
 
 #### TECNOLOGIAS e FERRAMENTAS
 
-- SISTEMAS OPERACIONAIS
+- ##### SISTEMAS OPERACIONAIS
 
 Linux, Debian, Ubuntu, RHEL/CentOS, Slackware, Gentoo, Alpine, Kali Linux, Mint, Archlinux, Astralinux, LEDE, OpenWRT, Mikrotik, Busybox, Free RTOS, DOS e Windows
 
-- LINGUAGENS
+- ##### LINGUAGENS
 
 Shell, Shellscript, Bash, Sed, AWK, C, Python e Go Lang
 
 - ##### FERRAMENTAS de CONECTIVIDADE e ADMINISTRAÇÃO
 
 Apache, Nginx, OpenSSH, SSH, Netcat, sockets, TOR, Onion router, OpenVPN, WireGuard, FTP, Bind, Mosh, Orbot, Telegram, Squid, ISC dhcp, Bind, GNU, iproute2, tcpdum, Nagios, WireShark, Airtools, xxd, bbe, iptables/netfilter, Git, GitHub, GitLab, Drone CI, rsync, Samba, API, REST, Modbus, 802.11, 802.15.4 (Zigbee), DALI (luminotécnica), NTCIP (Tráfego), DICOM (Com destaque para anonimização), Filesystems, LVM, RAID, Mdadm, Pv, RBD, DRBD e tmpfs.
+
+- ##### FERRAMENTAS de CLOUD e DevOps
+Docker, Swarm, Kubernetes, CRI-O, Podman, Containerd, AWS, RDS, EC2, VPC, S3, API Gateway, GCP, Azure, KVM, Libvirt, Virtmanager, Virtviewer, Hashicorp, Vagrant, Vault
 
 #### HISTÓRICO PROFISSIONAL:
 Becape Automação Industrial
