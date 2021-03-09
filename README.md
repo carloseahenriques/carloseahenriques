@@ -58,9 +58,11 @@ https://www.linkedin.com/in/carlos-henriques-6a658657/
 #### TECNOLOGIAS e FERRAMENTAS
 
 - SISTEMAS OPERACIONAIS
+
 Linux, Debian, Ubuntu, RHEL/CentOS, Slackware, Gentoo, Alpine, Kali Linux, Mint, Archlinux, Astralinux, LEDE, OpenWRT, Mikrotik, Busybox, Free RTOS, DOS e Windows
 
 -LINGUAGENS
+
 Shell, Shellscript, Bash, Sed, AWK, C, Python e Go Lang
 
 
