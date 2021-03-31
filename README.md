@@ -6,6 +6,8 @@ Brasileiro, casado, 1 filha
 
 Rio de Janeiro, RJ - CEP 22221-140
 
+https://www.linkedin.com/in/carlos-henriques-6a658657/
+
 #### E-mail: carlos.e.a.henriques@gmail.com
 #### Tel.: (21) 98863-4226 (Claro)
 #### ___________________________________________
@@ -53,7 +55,6 @@ https://www.embarcados.com.br/estendendo-a-vida-util-do-sd-card/
 
 https://www.linkedin.com/today/author/carlos-henriques-6a658657
 
-https://www.linkedin.com/in/carlos-henriques-6a658657/
 
 #### TECNOLOGIAS e FERRAMENTAS
 
@@ -78,7 +79,7 @@ Máquinas físicas HP Proliant, Dell PowerEdge, Supermicro e Gigabyte em ambient
 
 #### HISTÓRICO PROFISSIONAL:
 Becape Automação Industrial
-  Janeiro/2021 a Abril/2021 e serviços eventuais.
+  Janeiro/2020 a Abril/2020 e serviços eventuais.
   Desenvolvimento de sistemas embarcados voltados para a indústria e energia, (eficiência energética e óleo e gás), Reparos em dispositivos eletrônicos diversos voltados para a indústria, readaptação de sistemas legados, infra cloud AWS, DevOps.
 
 Decision 6 Equipamentos S.A. Desenvolvedor Sênior
@@ -86,7 +87,7 @@ Decision 6 Equipamentos S.A. Desenvolvedor Sênior
   Desenvolvimento de sistemas embarcados em hardware e software opensource, baseados em Raspberry PI, ESP8266, ESP32 e MT7688, para controle e contagem de      indivíduos, com foco no mercado varejista.
 
 York Engenharia (grupo) Técnico em Eletrônica,  Administrador de sistemas, coordenador de projetos.
-  Maio/2010 a fevereiro/2017
+  Maio/2001 a fevereiro/2017
   Manutenção, suporte e projetos de sistemas elétricos e eletrônicos na automação do túnel Vice-Presidente José Alencar (túnel da Grota Funda). Automação e monitoramento de subestações de energia, e sistemas de suporte periféricos (UPS e grupos geradores), sinalização semafórica, ventilação, monitoramento de qualidade do ar e controle de ventilação forçada, detecção automática de incidentes, prevenção e combate a incêndios, sistema supervisório SCADA.  Projeto e implementação de solução SCADA para redundância do sistema SCADA Telvent Oasys, com emprego de hardware e software opensource ( Raspberry PI, Slackware, CentOS, modpol, etc.). Familiarizado com sistemas IDS Traficon/Flir Tms-flux, WEG SSW0x, CLPs Rockwell, PMVs Aesys, sensores de gases e turbidez SICK, sistema de controle do gerador de ondas em piscinas e diversos sistemas eletrohidráulicos (Rio Water Planet).
 
 Exata S.A. CTVM Operador em Mercado de Opções
