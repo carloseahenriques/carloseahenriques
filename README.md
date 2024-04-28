@@ -78,6 +78,10 @@ Máquinas físicas HP Proliant, Dell PowerEdge, Supermicro e Gigabyte em ambient
 
 
 #### HISTÓRICO PROFISSIONAL:
+Saint Paulo Eduacacional Ltda.
+  Maio/2021 a Abril/2024.
+  Administrador de sistemas e DevOps. Suporte a infraestrutura de TI no IBM Cloud e AWS, VPS, EKS, S3, EC2, rotinas de backup, CI/CD, Docker, Kubernetes, Redis, Mongo DB, Distribuições CentOS e Debian.
+
 Becape Automação Industrial
   Janeiro/2020 a Abril/2020 e serviços eventuais.
   Desenvolvimento de sistemas embarcados voltados para a indústria e energia, (eficiência energética e óleo e gás), Reparos em dispositivos eletrônicos diversos voltados para a indústria, readaptação de sistemas legados, infra cloud AWS, DevOps.
